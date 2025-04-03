@@ -1,0 +1,22 @@
+{
+  "name": "exercicio-sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioLucianoFerreira/exercicio-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioLucianoFerreira/exercicio-sass/issues"
+  },
+  "homepage": "https://github.com/JulioLucianoFerreira/exercicio-sass#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.86.2"
+  }
+}
